@@ -3,7 +3,8 @@ It is  a Dog Website which has been created by using HTML CSS and Bootstrap . We
 
 # Screenshots
 
-![image](https://github.com/user-attachments/assets/c031ab61-96aa-4164-9dbc-4c3ab92eba86)
+<img width="947" alt="image" src="https://github.com/user-attachments/assets/8f8566ba-9c88-4100-b990-c5b9a90eb9c7">
+
 
 
 <img width="947" alt="image" src="https://github.com/user-attachments/assets/adf629b7-a346-49f0-a09e-fa5c08f03121">
